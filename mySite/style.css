@@ -1,0 +1,43 @@
+body {
+	/*background-image: url('images/fone.jpeg'); */
+	background-color: #756c68;
+	}
+/*table, th, td {
+ background-color: #f3ca20;
+} */
+
+.mMenu {
+	 background-color: #f3ca20;
+	 border: none;
+}
+.mBody {
+	width: 996px;
+	background-color: #f3ca20;
+	
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Rock Salt', cursive;
+    padding: 20px;
+    font-style: italic;
+    caption-side: bottom;
+    color: black;
+	
+}
+
+p {
+	text-decoration: none;
+	font-family: 'courier';
+    padding: 2px;
+    font-style: italic;
+    caption-side: bottom;
+    color: black;
+	
+}
+.abP {
+	font-family: 'times new roman';
+	padding: 1px;
+}
+
+
